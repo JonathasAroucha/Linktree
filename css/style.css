@@ -8,8 +8,8 @@
  }
  
  body{
-    background: rgb(54,77,204);
-    background: linear-gradient(180deg, rgba(54,77,204,1) 0%, rgba(22,39,134,1) 100%);
+    background-image: url(/img/bg3.jpg);
+    background-size: cover;
     color: white;
     font-family: 'Raleway', sans-serif;
  }
@@ -44,6 +44,12 @@
      list-style: none;
      margin: 20px 0;
     }
+.social img{
+        background-color: white;
+        border-radius: 50px;
+        padding: 1px;
+        box-shadow: 0 0 20px white;
+       }
     
 
  .social img{
@@ -67,11 +73,11 @@
      box-shadow: 0 0 20px white;
      padding: 15px 20px;
      font-weight: bold;
-     color: #364dcc;
+     color: #3092ca;
  }
 
  .links-list li a span{
-    color: gray;
+    color: rgb(102, 103, 104);
     display: block;
     margin-top: 10px;
 }

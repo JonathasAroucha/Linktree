@@ -97,7 +97,7 @@ h2 {
     text-decoration: none;
     background-color: #e8e9e9;
     border-radius: 5px;
-    box-shadow: 0 0 20px #20F6DE;
+    box-shadow: 0 0 10px #20F6DE;
     padding: 15px 20px;
     font-weight: bold;
     color: #08c2ac;
@@ -106,7 +106,7 @@ h2 {
 
 .links-list li a:hover {
     transform: scale(1.05); /* Aumenta o botão em 5% */
-    box-shadow: 0 0 30px #20F6DE; /* Aumenta o efeito de sombra */
+    box-shadow: 0 0 20px #20F6DE; /* Aumenta o efeito de sombra */
 }
 
 .links-list li a span {
